@@ -1,2 +1,2 @@
 # modelhub
-Store, Organise and Download trained models and project files
+Store, Organise and Download trained models or project files 
